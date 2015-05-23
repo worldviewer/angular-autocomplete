@@ -15,15 +15,20 @@ solution could be dropped in from http://twitter.github.io/typeahead.js/examples
 
 # Installation
 
-Running this app requires a server:
+Running this app requires a server.  If you don't already have it, install the
+http-server node module with npm:
 
 ```
 npm install -g http-server
+```
 
+Then, from the project directory, run the server:
+
+```
 http-server -a localhost -p 8080
 ```
 
-Then, point your browser to:
+Finally, point your browser to:
 
 ```
 localhost:8080
