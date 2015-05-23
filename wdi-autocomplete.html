@@ -1,0 +1,7 @@
+<input type="text" ng-model="q" ng-change="doAutoComplete()">
+
+<div ng-show="suggestions">
+	<div ng-repeat="suggestion in suggestions">
+		{{suggestion}}
+	</div>
+</div>
