@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/worldviewer/angular-autocomplete/blob/master/angular-autocomplete.gif" />
-</p>
-
 # Implementation of Autocompletion in Angular with a JavaScript-coded Trie
 
 The Trie is written into a custom Angular directive that can be called
