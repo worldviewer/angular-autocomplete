@@ -12,3 +12,16 @@ is backend agnostic.
 
 To create a dropdown interface for the Trie words, Twitter's jQuery Typeahead
 solution could be dropped in from http://twitter.github.io/typeahead.js/examples/
+
+# Installation
+
+Running this app requires a server:
+
+```npm install -g http-server
+
+http-server -a localhost -p 8080```
+
+Then, point your browser to:
+
+```localhost:8080```
+
