@@ -17,11 +17,15 @@ solution could be dropped in from http://twitter.github.io/typeahead.js/examples
 
 Running this app requires a server:
 
-```npm install -g http-server
+```
+npm install -g http-server
 
-http-server -a localhost -p 8080```
+http-server -a localhost -p 8080
+```
 
 Then, point your browser to:
 
-```localhost:8080```
+```
+localhost:8080
+```
 
